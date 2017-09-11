@@ -49,8 +49,11 @@ Launch with "rails s" on localhost:3000
 * Services (job queues, cache servers, search engines, etc.)
 
 -Registration
+
 -Sign in/Log out
+
 -Image upload
+
 -Database Indexing
 
 * Deployment instructions
