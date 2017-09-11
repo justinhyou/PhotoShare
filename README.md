@@ -2,7 +2,7 @@
 
 Instagram-like Web App for Sharing Photos
 
-
+![home_page](screenshots/alert)
 
 
 
