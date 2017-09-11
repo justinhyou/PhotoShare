@@ -31,23 +31,29 @@ There are built-in alerts for a more user-friendly interface. For example, if a 
 
 
 * Ruby version
+
 2.3.1
 
 * System dependencies
+
 N/A
 
 * Configuration
+
 Ubuntu 14.04
 
 * How to run the test suite
+
 Launch with "rails s" on localhost:3000
 
 * Services (job queues, cache servers, search engines, etc.)
+
 -Registration
 -Sign in/Log out
 -Image upload
 -Database Indexing
 
 * Deployment instructions
+
 Currently runs locally. 
 
